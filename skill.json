@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-single-breath-diffusing-capacity-dlco-skill",
+  "version": "1.0.0",
+  "description": "Calculates Single-Breath Diffusing Capacity of the Lung for Carbon Monoxide (DLCO), hemoglobin adjustment, and Krogh transfer coefficient (KCO = DLCO/VA).",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "dlco",
+    "gas-exchange",
+    "alveolar-capillary",
+    "krogh-factor",
+    "respiratory",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
